@@ -35,7 +35,7 @@
             android:padding="20dp" />
 
         <EditText
-            android:id="@+id/edit_number"
+            android:id="@+id/edit_phone_number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -70,13 +70,13 @@
             android:padding="20dp" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/edit_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="20dp"
             android:background="@drawable/border_back"
             android:padding="20dp"
-            android:text="Save" />
+            android:text="@string/edit_btn_save_text" />
     </LinearLayout>
 </ScrollView>

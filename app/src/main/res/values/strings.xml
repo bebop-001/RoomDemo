@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Person App</string>
+    <string name="update_btn_text">Update</string>
+    <string name="edit_btn_save_text">Save</string>
 </resources>
